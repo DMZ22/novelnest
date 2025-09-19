@@ -173,7 +173,7 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-**Built with ❤️ by [Yug Bothra](https://github.com/Yug-Bothra)**
+**Built by Devashish
 
 *Happy Reading! 📚✨*
 
