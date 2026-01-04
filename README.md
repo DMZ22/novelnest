@@ -154,7 +154,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 License
 This project is for educational purposes only as part of my college minor project. Not licensed for redistribution or commercial use.
 
-Copyright © 2025 Yug Bothra  
+Copyright © 2025 Devashish Moghe   
 All rights reserved.  
 This project is a personal college minor project and is not available for public reuse, modification, or distribution without explicit permission.
 
@@ -173,7 +173,7 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-**Built by Devashish
+**Built by Devashish,Yug,Daksh 
 
 *Happy Reading! 📚✨*
 
